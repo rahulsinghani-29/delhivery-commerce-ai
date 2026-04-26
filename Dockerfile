@@ -13,6 +13,7 @@ COPY api/ api/
 COPY services/ services/
 COPY communication/ communication/
 COPY models.py .
+COPY start.py .
 COPY tests/ tests/
 
 RUN pip install --no-cache-dir .
