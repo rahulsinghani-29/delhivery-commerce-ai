@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+*.db
+.env
+node_modules/
+commerce_ai/frontend/dist/
+commerce_ai/frontend/.vite/
+.DS_Store
+*.joblib
